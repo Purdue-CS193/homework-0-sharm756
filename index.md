@@ -45,3 +45,8 @@ Things to do:
 
 _Things NOT to do:_
 1. Cry
+
+# Saanvi's First CS193 Homework
+- I like the people in CS193
+- CS193 isn't too stressful (no midterms or finals!!)
+- There is only one class a week
